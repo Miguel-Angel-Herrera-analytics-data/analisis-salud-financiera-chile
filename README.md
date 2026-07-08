@@ -50,5 +50,5 @@ desde una perspectiva crediticia.
 - Datos públicos CMF Chile
 
 ## Visualizaciones
-![Comparativo 2024](analisis_retail_chile_2024.png)
+![Comparativo 2025](analisis_retail_chile_2025.png)
 ![Tendencias 2022-2025](tendencias_retail_chile_2022_2025.png)
